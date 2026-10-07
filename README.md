@@ -37,8 +37,8 @@ AI Resume Job Matcher/
 ├── resume_parser.py
 ├── requirements.txt
 ├── README.md
-└── data/
-    └── skills.csv
+└── skills.csv
+    
 ```
 
 ## How It Works
